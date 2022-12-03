@@ -1,0 +1,17 @@
+# Visual Studio
+*.suo
+*.user
+[Oo]bj
+bin
+packages
+*.userprefs
+.DS_Store
+.vs
+**/TestResult.xml
+**/results.xml
+**/result.xml
+macvs
+*.pyc
+/Builds
+*.diagsession
+.vagrant
